@@ -1,9 +1,9 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NLP Model For Human Stress Prediction</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NLP Model For Human Stress Prediction</title>
 
 <style>
         h1 {
@@ -21,45 +21,45 @@
 </head>
 
 <body>
-    <div>
-        <h1>
+<div>
+<h1>
             NLP Model For Human Stress Prediction
-        </h1>
-    </div>
+</h1>
+</div>
 
-    <div>
-        <h2>General Information About The Project: </h2>
-    </div>
-    <div>
-        <ul>
-            
-            <li>The project is written in Python in a Jupyter Notebook format</li>
-            <li>The motivation behind the dataset is to produce a machine learning model that can predict if an individual is suffering from a psychological stress or not </li> 
-            <li>The dataset behind the project is captured from multiple subreddits and is available at the following link from kaggle.com <a
+<div>
+<h2>General Information About The Project: </h2>
+</div>
+<div>
+<ul>
+           
+<li>The project is written in Python in a Jupyter Notebook format</li>
+<li>The motivation behind the dataset is to produce a machine learning model that can predict if an individual is suffering from a psychological stress or not </li> 
+<li>The dataset behind the project is captured from multiple subreddits and is available at the following link from kaggle.com <a
                 href="https://www.kaggle.com/datasets/mirichoi0218/insurance"> DataSet Link
-                </a>  
-            <li>The project initially starts by conducting EDA and producing a ml_nlp.csv file from the test_preprocessing.ipynb file</li>
-            <li>The second part of the project takes the produced CSV file from the text preprocessing step and conducts an ML analysis on the data in the maincode.ipynb file</li>
-            <li>Detailed work of preporcessing the data is available at <b>test_preprocessing.ipynb</b></li>
+</a>  
+<li>The project initially starts by conducting EDA and producing a ml_nlp.csv file from the test_preprocessing.ipynb file</li>
+<li>The second part of the project takes the produced CSV file from the text preprocessing step and conducts an ML analysis on the data in the maincode.ipynb file</li>
+<li>Detailed work of preporcessing the data is available at <b>test_preprocessing.ipynb</b></li>
 
-            <li>Detailed work of applying each algorithm is available at <B>maincode.ipynb</B></li>
-
-
-
-
-        </ul>
-    </div>
+<li>Detailed work of applying each algorithm is available at <B>maincode.ipynb</B></li>
 
 
 
-    <div>
-        <h2>EDA Conclusions Written Information: </h2>
-    </div>
-    <div>
-        <ul>
-            <li>There is a total of <b>7</b> features which are: </li>
-            <ul>
-                <li><b>subredit</b>, the subreddit the text comes from </li>
+
+</ul>
+</div>
+
+
+
+<div>
+<h2>EDA Conclusions Written Information: </h2>
+</div>
+<div>
+<ul>
+<li>There is a total of <b>7</b> features which are: </li>
+<ul>
+<li><b>subredit</b>, the subreddit the text comes from </li>
                 <li><b>post_id</b>, the post's id </li>
                 <li><b>sentence_range</b>, the size of the sentence</li>
                 <li><b>text</b>, the text that will represent the state of the person</li>

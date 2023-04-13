@@ -60,74 +60,73 @@
 <li>There is a total of <b>7</b> features which are: </li>
 <ul>
 <li><b>subredit</b>, the subreddit the text comes from </li>
-                <li><b>post_id</b>, the post's id </li>
-                <li><b>sentence_range</b>, the size of the sentence</li>
-                <li><b>text</b>, the text that will represent the state of the person</li>
-                <li><b>label</b>, this is the label feature column that indicates if a person is going through psychological stress or not. The value of 1 means the person is going through psychological stress. The value of 0 means the person is not going through psychological stress </li>
-                <li><b>confidence</b>, this is the confidence level of person on text</li>
-                <li><b>social_timestamp</b>, this is the social timestamp </li>
+<li><b>post_id</b>, the post's id </li>
+<li><b>sentence_range</b>, the size of the sentence</li>
+<li><b>text</b>, the text that will represent the state of the person</li>
+<li><b>label</b>, this is the label feature column that indicates if a person is going through psychological stress or not. The value of 1 means the person is going through psychological stress. The value of 0 means the person is not going through psychological stress </li>
+<li><b>confidence</b>, this is the confidence level of person on text</li>
+<li><b>social_timestamp</b>, this is the social timestamp </li>
                
-            </ul>
+</ul>
 
-            <li>The project focused on two features. The <b>text</b> feature which was the input feature and the <b> label</b> feature which was the output feature</li>
-
-
-        </ul>
-
-    </div>
+<li>The project focused on two features. The <b>text</b> feature which was the input feature and the <b> label</b> feature which was the output feature</li>
 
 
+</ul>
+
+</div>
 
 
 
-    <!-- <div>
+
+
+<!-- <div>
         <h2>Main Metrics of Evaluation: </h2>
-    </div>
-    <div>
+</div>
+<div>
 
-
-    </div> -->
+</div> -->
 
 <div>
 
 
-            <h2>Comparison  of the Algorithms Table: </h2>
+<h2>Comparison  of the Algorithms Table: </h2>
 
-            <ul>
-                <li>For each of the algorithms analyzed the Accuracy and Recall</li>
-                <li>The NLP study had two major goals. The best is producing an algorithm with good accuracy. The second is to decrease the false negative, which means we predict a person has no psychological issues while they do. The best metric to decrease false negatives tends to be recall</li>
+<ul>
+<li>For each of the algorithms analyzed the Accuracy and Recall</li>
+<li>The NLP study had two major goals. The best is producing an algorithm with good accuracy. The second is to decrease the false negative, which means we predict a person has no psychological issues while they do. The best metric to decrease false negatives tends to be recall</li>
     
     
-            </ul>
+</ul>
 
 
-            <table style="width:80%">
-            <tr>
-            <td><b>Algorithm</b></td>
-            <td><b>False Negative</b></td>
-            <td><b>True Positive</b></td>
-            <td><b>True Negative</b></td>
-            <td><b>False Positive</b></td>
+<table style="width:80%">
+<tr>
+<td><b>Algorithm</b></td>
+<td><b>False Negative</b></td>
+<td><b>True Positive</b></td>
+<td><b>True Negative</b></td>
+<td><b>False Positive</b></td>
             
 
-            <tr>
-                <td><b>Logistic Regression - Metric = Accuracy = 74% </b></td>
-                <td>68 </td>
-                <td>183 </td>
-                <td>240 </td>
-                <td>77 </td>
+<tr>
+<td><b>Logistic Regression - Metric = Accuracy = 74% </b></td>
+<td>68 </td>
+<td>183 </td>
+<td>240 </td>
+<td>77 </td>
 
                 
-                </tr>
+</tr>
 
 
-            </tr>
+</tr>
             
 
             
 
-            </tr>
-            <tr>
+</tr>
+<tr>
             <td><b>Logistic Regression - Metric = Recall = 99% </b></td>
             <td>0 </td>
             <td>27 </td>

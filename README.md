@@ -127,66 +127,66 @@
 
 </tr>
 <tr>
-            <td><b>Logistic Regression - Metric = Recall = 99% </b></td>
-            <td>0 </td>
-            <td>27 </td>
-            <td>308 </td>
-            <td>233 </td>
+<td><b>Logistic Regression - Metric = Recall = 99% </b></td>
+<td>0 </td>
+<td>27 </td>
+<td>308 </td>
+<td>233 </td>
 
         
             
             
-            <tr>
-            <td><b>Multinomial Naive Bayes - Metric = Accuracy =71% </b></td>
-            <td> 54 </td>
-            <td> 155  </td>
-            <td>   254</td>
+<tr>
+<td><b>Multinomial Naive Bayes - Metric = Accuracy =71% </b></td>
+<td> 54 </td>
+<td> 155  </td>
+<td>   254</td>
 
-            <td>  105 </td>
-
-            
-            
-            </tr>
-            
-
-            
-            <tr>
-            <td><b>Multinomial Naive Bayes - Metric = Recall = nan</b></td>
-
-            <td>21 </td>
-            <td>120 </td>
-            <td>287 </td>
-            <td>140 </td>
+<td>  105 </td>
 
             
             
-            </tr>
+</tr>
             
 
-            <tr>
-                <td><b>Bernoulli Naive Bayes - Metric = Accuracy - 73% </b></td>
-                <td> 42 </td>
-                <td> 157 </td>
-                <td>   266</td>
-                <td> 103 </td>
+            
+<tr>
+<td><b>Multinomial Naive Bayes - Metric = Recall = nan</b></td>
+
+<td>21 </td>
+<td>120 </td>
+<td>287 </td>
+<td>140 </td>
+
+            
+            
+</tr>
+            
+
+ <tr>
+<td><b>Bernoulli Naive Bayes - Metric = Accuracy - 73% </b></td>
+<td> 42 </td>
+<td> 157 </td>
+<td>   266</td>
+<td> 103 </td>
 
                 
                 
-                </tr>
+</tr>
                 
 
                 
-                <tr>
-                <td><b>Bernoulli Naive Bayes - Metric = Recall = nan </b></td>
+<tr>
+<td><b>Bernoulli Naive Bayes - Metric = Recall = nan </b></td>
     
-                <td>16  </td>
-                <td>120  </td>
-                <td>292</td>
-                <td>140 </td>
+<td>16  </td>
+<td>120  </td>
+<td>292</td>
+<td>140 </td>
 
                 
                 
-                </tr>
+</tr>
 
 
 
@@ -200,7 +200,7 @@
 
     
             
-            </table>
+</table>
 
 
  </div>

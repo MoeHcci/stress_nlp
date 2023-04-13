@@ -1,26 +1,4 @@
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<style>
-        h1 {
-            text-align: center;
-        }
-
-        table,
-        th,
-        td {
-            border: 1px solid black;
-        }
-</style>
-
-    
-</head>
-
-<body>
-<div>
 <h1>
             NLP Model For Human Stress Prediction
 </h1>
